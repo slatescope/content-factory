@@ -74,13 +74,6 @@
    "details": {
     "Status": "Waiting on YouTube channel verification"
    }
-  },
-  {
-   "id": "TEST",
-   "title": "SITE TEST - ignore",
-   "station": 5,
-   "updated": "now",
-   "details": {}
   }
  ],
  "stations": [
@@ -574,5 +567,5 @@
    ]
   }
  ],
- "updated": "Mon Oct 26, 2026 5:08 PM ET"
+ "updated": "Mon Oct 26, 2026 5:09 PM ET"
 }
