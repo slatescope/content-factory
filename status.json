@@ -1,0 +1,571 @@
+{
+ "videos": [
+  {
+   "id": "IF1",
+   "title": "Illegal floors",
+   "station": 11,
+   "updated": "Oct 26, 3:40 PM ET",
+   "details": {
+    "Format": "Short",
+    "Sign-off": "Awaiting Joe's approval"
+   }
+  },
+  {
+   "id": "TG1",
+   "title": "Three Gorges Dam slowed the Earth (v2)",
+   "station": 9,
+   "updated": "Oct 26, 3:40 PM ET",
+   "details": {
+    "Format": "Short, 75.6 s",
+    "Hook": "This dam made Earth's day longer (~0.06 µs, NASA)",
+    "QC": "Skip fix + final VO line fix in progress (check_smoothness.py)",
+    "Posting": "Partly posted; slots R122 YT 12 PM, R208 TT 4 PM, R206 X 5 PM, R207 IG 6 PM, R411 FB 7 PM Oct 26"
+   }
+  },
+  {
+   "id": "CO1",
+   "title": "Colosseum hypogeum: how lions rose out of the floor (v3)",
+   "station": 13,
+   "updated": "Oct 26, 3:40 PM ET",
+   "details": {
+    "Format": "Short, 65.0 s",
+    "Hook": "Lions didn't walk in. They rose out of the sand",
+    "Posting": "Scheduled Tue Oct 27 (YT 12 PM, TT 4 PM, X 5 PM, IG 6 PM, FB 7 PM ET)"
+   }
+  },
+  {
+   "id": "BB1",
+   "title": "Brooklyn Bridge caissons (v2)",
+   "station": 13,
+   "updated": "Oct 26, 3:40 PM ET",
+   "details": {
+    "Format": "Short, 70.07 s",
+    "Hook": "One tower doesn't stand on bedrock. It stands on sand",
+    "QC": "X 16:9 check_no_split PASS",
+    "Posting": "Scheduled Wed Oct 28 (YT 12 PM, TT 4 PM, X 5 PM, IG 6 PM, FB 7 PM ET)"
+   }
+  },
+  {
+   "id": "GP1",
+   "title": "Great Pyramid: the hidden corridor (v1)",
+   "station": 13,
+   "updated": "Oct 26, 3:40 PM ET",
+   "details": {
+    "Format": "Short, 65.9 s",
+    "Hook": "They x-rayed the Great Pyramid and found an empty corridor",
+    "QC": "X 16:9 check_no_split PASS",
+    "Posting": "Scheduled Thu Oct 29 (YT 12 PM, TT 4 PM, X 5 PM, IG 6 PM, FB 7 PM ET)"
+   }
+  },
+  {
+   "id": "SCAN",
+   "title": "Monday-scan topics (search-demand-2026-10-26)",
+   "station": 1,
+   "updated": "Oct 26, 3:40 PM ET",
+   "details": {
+    "Sign-off": "Awaiting Joe's pick; nothing renders until he chooses"
+   }
+  },
+  {
+   "id": "ABT",
+   "title": "Skyscraper thumbnail A/B test",
+   "station": "ops:thumbs",
+   "updated": "Oct 26, 3:40 PM ET",
+   "details": {
+    "Status": "Waiting on YouTube channel verification"
+   }
+  }
+ ],
+ "stations": [
+  {
+   "n": 1,
+   "name": "Topic selection",
+   "owner": "Analyst + Researcher",
+   "gate": "Joe picks",
+   "next": "Long vs short",
+   "checks": [
+    [
+     "Topic backed by measured search growth (Google Trends, Wikipedia pageviews, TikTok Creator Search Insights)",
+     "Picks by data, not hunches",
+     "Oct 25"
+    ],
+    [
+     "Topic picks go to Joe first; nothing renders until he chooses",
+     "Protects usage and his taste",
+     "Oct 24"
+    ],
+    [
+     "Topic is in the approved week/batch",
+     "production-process.md step 0",
+     "Oct 18"
+    ]
+   ]
+  },
+  {
+   "n": 2,
+   "name": "Long vs short",
+   "owner": "Producer (Format Gate)",
+   "gate": "Producer",
+   "next": "Wow-factor check",
+   "checks": [
+    [
+     "Default VIDEO; carousel only if <6 licensed photos, static list, same-day deadline, or can't fill 61 s",
+     "production-process.md step 1",
+     "Oct 18"
+    ],
+    [
+     "Short must reach ≥63 s without padding",
+     "TikTok payout needs >61 s; 2 s margin",
+     "Oct 25"
+    ]
+   ]
+  },
+  {
+   "n": 3,
+   "name": "Wow-factor check",
+   "owner": "Producer",
+   "gate": "Producer",
+   "next": "Hook",
+   "checks": [
+    [
+     "Short: exactly one clear wow; long-form: several",
+     "Joe's rule",
+     "Oct 26"
+    ],
+    [
+     "Wow is a curiosity, not a committee 'gap fix' list",
+     "regression-2026-10-24: multi-agent chain diluted hooks",
+     "Oct 24"
+    ]
+   ]
+  },
+  {
+   "n": 4,
+   "name": "Hook",
+   "owner": "Producer + Scriptwriter",
+   "gate": "Joe OKs hook",
+   "next": "Script",
+   "checks": [
+    [
+     "Hook hits hard with a dramatic visual reveal in 0–3 s",
+     "Joe's rule; P01 winner pattern",
+     "Oct 24"
+    ],
+    [
+     "Hook contents factually accurate",
+     "Never fabricate",
+     "Oct 24"
+    ],
+    [
+     "Style: Real-Photo Hidden Machine (credited PD/CC photo held ~2 s → 3D cutaway) or CAR10 twist hook",
+     "car10-video-style.md",
+     "Oct 25"
+    ],
+    [
+     "Headline on screen from frame 1, no fade-in (CAR10)",
+     "car10-video-style.md",
+     "Oct 25"
+    ]
+   ]
+  },
+  {
+   "n": 5,
+   "name": "Script & fact-check",
+   "owner": "Researcher + Scriptwriter",
+   "gate": "Researcher sign-off",
+   "next": "Shot list",
+   "checks": [
+    [
+     "100% of claims sourced; numbers cross-checked with a second source",
+     "production-process.md step 2",
+     "Oct 18"
+    ],
+    [
+     "Every line maps to a fact ID; US units",
+     "step 3",
+     "Oct 18"
+    ],
+    [
+     "CAR10 structure: twist hook → disaster → how it works → this week's numbers → debate question",
+     "car10-video-style.md",
+     "Oct 25"
+    ],
+    [
+     "Ending clearly answers the question it raises (no cliffhanger)",
+     "Joe hates cliffhangers",
+     "Oct 25"
+    ],
+    [
+     "~170–185 words for 63–68 s at af_heart 1.12",
+     "car10-video-style.md",
+     "Oct 25"
+    ]
+   ]
+  },
+  {
+   "n": 6,
+   "name": "Shot list & storyboard",
+   "owner": "Storyboarder + Shot List bot",
+   "gate": "Producer writes APPROVED",
+   "next": "Generation & build",
+   "checks": [
+    [
+     "No build starts before storyboard APPROVED",
+     "step 4",
+     "Oct 18"
+    ],
+    [
+     "No split screens; zoom ≤1.15×; holds ≤3 s; image used ≤2×",
+     "step 5",
+     "Oct 18"
+    ],
+    [
+     "boardlint.py PASS on timing.json and shotlist.csv",
+     "step 5",
+     "Oct 19"
+    ],
+    [
+     "Motion every 2–3 s",
+     "car10-video-style.md",
+     "Oct 25"
+    ]
+   ]
+  },
+  {
+   "n": 7,
+   "name": "Generation & build",
+   "owner": "Explainer Video bot",
+   "gate": "Grok Bot",
+   "next": "Voice & music",
+   "checks": [
+    [
+     "One build round + at most one polish pass; no repeated fix loops",
+     "Protect usage",
+     "Oct 24"
+    ],
+    [
+     "Visuals premium, glassy, photoreal; no flat hand-drawn diagrams",
+     "Joe's taste",
+     "Oct 24"
+    ],
+    [
+     "CC credit on the photo only, never in captions",
+     "RULES.md",
+     "Oct 24"
+    ],
+    [
+     "Don't force 24 fps clips to 30 fps or slow-mo by frame repeat",
+     "Three Gorges skips",
+     "Oct 26"
+    ]
+   ]
+  },
+  {
+   "n": 8,
+   "name": "Voice & music",
+   "owner": "Grok Bot (voice)",
+   "gate": "Grok Bot",
+   "next": "QC checks",
+   "checks": [
+    [
+     "Kokoro af_heart voice",
+     "Joe's rule",
+     "Oct 25"
+    ],
+    [
+     "-14 LUFS integrated, limiter -1 dBTP; music ducked under VO",
+     "car10-video-style.md",
+     "Oct 25"
+    ],
+    [
+     "No silence: gaps ≤0.15 s",
+     "car10-video-style.md",
+     "Oct 25"
+    ],
+    [
+     "Listen to the final VO line wording",
+     "NEW: Three Gorges final-line fix",
+     "Oct 26"
+    ],
+    [
+     "stt_check transcript matches script",
+     "step 6",
+     "Oct 18"
+    ]
+   ]
+  },
+  {
+   "n": 9,
+   "name": "QC checks",
+   "owner": "Grok Bot (Gatekeeper scripts)",
+   "gate": "All PASS",
+   "next": "Reviewer",
+   "checks": [
+    [
+     "check_smoothness.py: CFR, no dropped/duplicated/frozen frames, A/V sync ≤50 ms, first 5 s strict",
+     "NEW: Three Gorges skips",
+     "Oct 26"
+    ],
+    [
+     "Duration ≥63 s",
+     "Payout",
+     "Oct 25"
+    ],
+    [
+     "holdcheck, pace, padcheck, edgecheck, ocrcheck, provcheck, stt_check, layoutgate green",
+     "step 8",
+     "Oct 18"
+    ],
+    [
+     "X 16:9 cut passes check_no_split.py",
+     "No stacked/split layouts",
+     "Oct 25"
+    ],
+    [
+     "Share copies under 30 MB",
+     "Joe's rule",
+     "Oct 24"
+    ]
+   ]
+  },
+  {
+   "n": 10,
+   "name": "Reviewer",
+   "owner": "Reviewer",
+   "gate": "Reviewer PASS (not the quality bar)",
+   "next": "Joe sign-off",
+   "checks": [
+    [
+     "Quality + monetization: originality, licences",
+     "step 9",
+     "Oct 18"
+    ],
+    [
+     "Reviewer PASS ≠ done; Joe's taste is the bar",
+     "Joe's rule",
+     "Oct 24"
+    ],
+    [
+     "Reviewer must not replace a search-backed hook",
+     "regression-2026-10-24",
+     "Oct 24"
+    ]
+   ]
+  },
+  {
+   "n": 11,
+   "name": "Joe sign-off",
+   "owner": "Joe",
+   "gate": "Joe",
+   "next": "Post kit",
+   "checks": [
+    [
+     "Joe OKs hook, first half, and full video",
+     "Joe's rule",
+     "Oct 24"
+    ],
+    [
+     "Every rejection logged in rejections.md and turned into a check within 24 h",
+     "Learning loop",
+     "Oct 18"
+    ]
+   ]
+  },
+  {
+   "n": 12,
+   "name": "Post kit",
+   "owner": "Grok Bot",
+   "gate": "Grok Bot",
+   "next": "Posting",
+   "checks": [
+    [
+     "9:16 cut, 16:9 X cut, cover, captions + hashtags",
+     "Per platform",
+     "Oct 24"
+    ],
+    [
+     "Shorts cover uploaded manually in desktop Studio (API ignores it)",
+     "thumbnail-plan.md",
+     "Oct 26"
+    ],
+    [
+     "No 'AI' label or AI-voice wording on any platform",
+     "RULES.md / Joe",
+     "Oct 24"
+    ]
+   ]
+  },
+  {
+   "n": 13,
+   "name": "Posting per platform",
+   "owner": "Grok Bot; Joe for TikTok",
+   "gate": "Joe's yes",
+   "next": "Measurement",
+   "checks": [
+    [
+     "Nothing posts without Joe's own yes",
+     "RULES.md",
+     "Oct 24"
+    ],
+    [
+     "TikTok: Joe posts from phone (video, then caption message)",
+     "RULES.md",
+     "Oct 24"
+    ],
+    [
+     "Bot posts YT, FB, IG, X at best times",
+     "RULES.md",
+     "Oct 24"
+    ],
+    [
+     "Check live profile for duplicates before any post",
+     "Log can be stale",
+     "Oct 24"
+    ],
+    [
+     "Covers on live videos not changed without Joe's OK",
+     "thumbnail-plan.md",
+     "Oct 26"
+    ]
+   ]
+  },
+  {
+   "n": 14,
+   "name": "24h / 72h measurement",
+   "owner": "Analyst",
+   "gate": "Analyst → Topic selection",
+   "next": "Topic selection (loop)",
+   "checks": [
+    [
+     "Log views at 24 h and 72 h in metrics-log.csv",
+     "Feeds topic picks",
+     "Oct 24"
+    ],
+    [
+     "Bar: 10k views minimum across platforms; 25k+ is good",
+     "Joe's rule",
+     "Oct 26"
+    ],
+    [
+     "X numbers are impressions; don't add to views",
+     "regression-2026-10-24",
+     "Oct 24"
+    ]
+   ]
+  }
+ ],
+ "ops": [
+  {
+   "id": "ops:research",
+   "name": "Demand & topic research",
+   "owner": "Researcher / Analyst",
+   "checks": [
+    [
+     "Google Trends, Wikipedia pageviews, TikTok CSI measured growth",
+     "search-demand-*.md",
+     "Oct 26"
+    ]
+   ]
+  },
+  {
+   "id": "ops:analytics",
+   "name": "Analytics & dashboards",
+   "owner": "Analyst",
+   "checks": [
+    [
+     "TikTok API reader (tools/tiktok-api)",
+     "Real reads only",
+     "Oct 25"
+    ],
+    [
+     "Daily dashboard (dashboard/)",
+     "One view",
+     "Oct 24"
+    ]
+   ]
+  },
+  {
+   "id": "ops:thumbs",
+   "name": "Thumbnails & A/B testing",
+   "owner": "Grok Bot",
+   "checks": [
+    [
+     "YT Test & Compare is long-form only",
+     "thumbnail-plan.md",
+     "Oct 26"
+    ],
+    [
+     "Needs channel verification",
+     "thumbnail-plan.md",
+     "Oct 26"
+    ]
+   ]
+  },
+  {
+   "id": "ops:sched",
+   "name": "Scheduling & posting",
+   "owner": "Grok Bot",
+   "checks": [
+    [
+     "posting-schedule.md is the log; verify live profile",
+     "RULES.md",
+     "Oct 24"
+    ]
+   ]
+  },
+  {
+   "id": "ops:review",
+   "name": "Competitor & revenue review",
+   "owner": "Analyst / Reviewer",
+   "checks": [
+    [
+     "Mon/Thu production review (proposed cadence)",
+     "production-process.md",
+     "Oct 18"
+    ]
+   ]
+  },
+  {
+   "id": "ops:budget",
+   "name": "Usage budget",
+   "owner": "Grok Bot",
+   "checks": [
+    [
+     "One build + one polish max",
+     "Protect usage",
+     "Oct 24"
+    ],
+    [
+     "Log ElevenLabs credit spend",
+     "production-process.md",
+     "Oct 18"
+    ]
+   ]
+  },
+  {
+   "id": "ops:support",
+   "name": "Support tickets",
+   "owner": "Grok Bot",
+   "checks": [
+    [
+     "Track open tickets with platforms (proposed)",
+     "proposed",
+     ""
+    ]
+   ]
+  },
+  {
+   "id": "ops:bots",
+   "name": "Team bots",
+   "owner": "Grok Bot (chief of staff)",
+   "checks": [
+    [
+     "Roster: Researcher, Scriptwriter, Shot List, Storyboarder, Producer, Reviewer, Analyst, Explainer Video bot",
+     "production-process.md",
+     "Oct 18"
+    ]
+   ]
+  }
+ ],
+ "updated": "Mon Oct 26, 2026 5:06 PM ET"
+}
