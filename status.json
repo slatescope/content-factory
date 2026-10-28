@@ -1,6 +1,18 @@
 {
  "videos": [
   {
+   "id": "CMT",
+   "title": "Comment follow-ups (review Oct 28)",
+   "station": 1,
+   "updated": "Oct 28, 11:15 AM ET",
+   "details": {
+    "Top pick": "NYC water answer video: built, waiting on Joe's OK to post as a TikTok video reply",
+    "Next ideas": "Roof-tank fill (29 likes) · one-pump problem · fire water to floor 60",
+    "Report": "comments-2026-10-28.md",
+    "Sign-off": "Joe picks with the Mon/Thu topic list; nothing builds or posts without his yes"
+   }
+  },
+  {
    "id": "IF1",
    "title": "Illegal floors",
    "station": 11,
@@ -84,6 +96,11 @@
    "gate": "Joe picks",
    "next": "Long vs short",
    "checks": [
+    [
+     "Read the latest comment report (reports/comments/) first; rank viewer-question follow-ups with the search picks",
+     "Comments = proven demand; run before Mon/Thu topic planning (Joe)",
+     "Oct 28"
+    ],
     [
      "Topic backed by measured search growth (Google Trends, Wikipedia pageviews, TikTok Creator Search Insights)",
      "Picks by data, not hunches",
@@ -199,6 +216,11 @@
      "~170–185 words for 63–68 s at af_heart 1.12",
      "car10-video-style.md",
      "Oct 25"
+    ],
+    [
+     "Teasers answer the question on the same platform (no 'full answer on YouTube')",
+     "NYC water: top TikTok comment complained, 1,260 likes",
+     "Oct 28"
     ]
    ]
   },
@@ -464,6 +486,11 @@
      "Google Trends, Wikipedia pageviews, TikTok CSI measured growth",
      "search-demand-*.md",
      "Oct 26"
+    ],
+    [
+     "Comment review before each Mon/Thu 9 AM topic planning: TikTok public comments, X replies, YouTube/IG/FB via Studio",
+     "comments-YYYY-MM-DD.md",
+     "Oct 28"
     ]
    ]
   },
@@ -567,5 +594,69 @@
    ]
   }
  ],
- "updated": "Mon Oct 26, 2026 5:09 PM ET"
+ "comment_feedback": {
+  "review_date": "Wed Oct 28, 2026",
+  "window": "Oct 14–28, 2026",
+  "report": "comments-2026-10-28.md",
+  "rule": "Read the latest comment report before every Mon/Thu 9 AM topic planning. Comment-driven follow-ups are ranked alongside the search-scan picks.",
+  "coverage": "Read: TikTok (77 comments + replies, 6 videos) and X (0 viewer replies, 1 quote). Not read: YouTube (13 comments, API scope blocked), Instagram, Facebook, TikTok Studio-only comments.",
+  "top_feedback": [
+   "Biggest complaint: the NYC water teaser ended without the answer (top comment 'i love the part when you tell the solution', 1,260 likes; 'videos that leave me hanging', 28). Post the built answer video; teasers must answer on the same platform.",
+   "No fact errors confirmed. The '6th floor' claim checks out with NYC Health (buildings over six floors pump to roof tanks).",
+   "Minor: 2 viewers asked for metric units (keep US in the VO; metric on screen is optional).",
+   "No voice, AI-look or caption complaints in what was read (YouTube, IG and FB still unread).",
+   "Praise: 'pure engineering genius', 'teach me moreee'; tradespeople debating psi math on NYC water."
+  ],
+  "gaps": [
+   "YouTube Studio comments (or re-auth with the youtube.force-ssl scope)",
+   "TikTok Studio (hidden/filtered comments, photo posts)",
+   "Instagram (P01 Reel + recent Reels)",
+   "Facebook Page comments"
+  ],
+  "ideas": [
+   {
+    "rank": "1",
+    "title": "NYC water: the answer (pressure zones, pumps, roof tanks)",
+    "demand": "1,260 + 99 + 28 + 27 likes",
+    "source": "NYC water TikTok (1.05M views)",
+    "video_reply": "Yes, already built and waiting on Joe's OK"
+   },
+   {
+    "rank": "2",
+    "title": "How water gets into the roof tank, and what's inside NYC's wooden water towers",
+    "demand": "29 likes + several replies",
+    "source": "NYC water TikTok, reply under @steven_in_kiwiland",
+    "video_reply": "Yes (could reuse the GS72 water-towers build)"
+   },
+   {
+    "rank": "3",
+    "title": "Why one giant pump would wreck the lobby's plumbing (85 psi code cap)",
+    "demand": "~10 likes across 6 comments",
+    "source": "NYC water TikTok",
+    "video_reply": "Yes"
+   },
+   {
+    "rank": "4",
+    "title": "How firefighters get water to the 60th floor (standpipes, fire pumps)",
+    "demand": "1 expert comment (0 likes)",
+    "source": "NYC water TikTok",
+    "video_reply": "Yes"
+   },
+   {
+    "rank": "5",
+    "title": "Where supertall towers hide their water (mid-height tanks, mechanical floors)",
+    "demand": "4 comments, low likes",
+    "source": "NYC water TikTok",
+    "video_reply": "Yes; check Corey overlap"
+   },
+   {
+    "rank": "6",
+    "title": "The 2.31 rule: 2.31 ft of water = 1 psi",
+    "demand": "4 comments, 2 likes",
+    "source": "NYC water TikTok",
+    "video_reply": "Short reply / pinned comment"
+   }
+  ]
+ },
+ "updated": "Wed Oct 28, 2026 10:43 AM ET"
 }
