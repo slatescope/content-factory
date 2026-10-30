@@ -132,9 +132,9 @@
      "Oct 18"
     ],
     [
-     "Short must reach ≥63 s without padding",
+     "Short must land 63–70 s without padding",
      "TikTok payout needs >61 s; 2 s margin",
-     "Oct 25"
+     "Oct 30"
     ]
    ]
   },
@@ -214,9 +214,9 @@
      "Oct 25"
     ],
     [
-     "~170–185 words for 63–68 s at af_heart 1.12",
-     "car10-video-style.md",
-     "Oct 25"
+     "Script sized for 63–70 s at Grok ara 0.97",
+     "Joe",
+     "Oct 30"
     ],
     [
      "Teasers answer the question on the same platform (no 'full answer on YouTube')",
@@ -280,6 +280,16 @@
      "Don't force 24 fps clips to 30 fps or slow-mo by frame repeat",
      "Three Gorges skips",
      "Oct 26"
+    ],
+    [
+     "On-screen credit on every footage clip; avoid network TV and stock (Pexels counts)",
+     "Joe",
+     "Oct 30"
+    ],
+    [
+     "Word-for-word captions at bottom; middle callouts only for proper names or dates, never plain nouns or VO repeats",
+     "Joe",
+     "Oct 30"
     ]
    ]
   },
@@ -296,9 +306,9 @@
      "Oct 25"
     ],
     [
-     "-14 LUFS integrated, limiter -1 dBTP; music ducked under VO",
-     "car10-video-style.md",
-     "Oct 25"
+     "-14 LUFS integrated, limiter -1 dBTP; no music (except Corey's Great Wall cuts)",
+     "Joe",
+     "Oct 30"
     ],
     [
      "No silence: gaps ≤0.15 s",
@@ -415,6 +425,11 @@
      "No 'AI' label or AI-voice wording on any platform",
      "RULES.md / Joe",
      "Oct 24"
+    ],
+    [
+     "Clear local copies after Drive upload sizes verified",
+     "Joe",
+     "Oct 30"
     ]
    ]
   },
@@ -651,5 +666,5 @@
    }
   ]
  },
- "updated": "Thu Oct 29, 2026 8:29 AM ET"
+ "updated": "Fri Oct 30, 2026 3:28 PM ET"
 }
