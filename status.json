@@ -4,13 +4,14 @@
    "id": "CMT",
    "title": "Comment follow-ups (review Nov 4)",
    "station": 1,
-   "updated": "Nov 4, 5:45 PM ET",
+   "updated": "Nov 4, 6:45 PM ET",
    "details": {
     "Top pick": "NEW: Texas grid sequel: does it fail in summer AND winter / will it hold this winter (ERCOT: 4 ordered outages ever, none in summer). #2 gas vs wind in 2021 (FERC 58%/27%). #3 high-speed rail: government vs private",
     "Next ideas": "CA track deadline Nov 30 (hold ≥ Dec 1) · tire dust in your water · home batteries/leaving the grid",
     "Done": "9 reply drafts (NoSpam1891, JustinCaudill14, 00060850, TalentsFinest, kellyclark9117, garywilson1688, pauldavis6571, jay.easy7, IG IPC risers); Joe posts them himself",
     "Report": "comments-2026-11-04.md",
-    "Sign-off": "Joe picks with the Sun/Wed topic list; nothing builds or posts without his yes"
+    "Sign-off": "Joe picks with the Sun/Wed topic list; nothing builds or posts without his yes",
+    "Made the list (Nov 4 scan)": "Texas grid part 2 (#1, 72; merges 'summer AND winter / this winter' + 'gas or wind in 2021') · US high-speed rail public vs private/Brightline (#6, 66). Not picked: CA Nov 30 deadline (hold ≥ Dec 1), tire dust, off-grid solar"
    }
   },
   {
@@ -72,11 +73,13 @@
   },
   {
    "id": "SCAN",
-   "title": "Monday-scan topics (search-demand-2026-10-26)",
+   "title": "Wed-scan topics (search-demand-2026-11-04)",
    "station": 1,
-   "updated": "Oct 26, 3:40 PM ET",
+   "updated": "Nov 4, 6:45 PM ET",
    "details": {
-    "Sign-off": "Awaiting Joe's pick; nothing renders until he chooses"
+    "Picks": "1 Texas grid pt 2 (72, comment) · 2 gas leaf blower ban (82) · 3 Flock cameras (77) · 4 heat pumps in cold (75) · 5 TEST battery storage fire (71) · 6 US high-speed rail public vs private (66, comment) · 7 burying power lines (66) · 8 TEST toilet to tap (66)",
+    "Comment ideas on list": "Texas grid part 2; high-speed rail public vs private",
+    "Sign-off": "Waiting for Joe's approval; nothing handed to the Researcher"
    }
   },
   {
@@ -697,5 +700,5 @@
    }
   ]
  },
- "updated": "Wed Nov 4, 2026 5:27 PM ET"
+ "updated": "Wed Nov 4, 2026 6:27 PM ET"
 }
