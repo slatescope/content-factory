@@ -2,14 +2,14 @@
  "videos": [
   {
    "id": "CMT",
-   "title": "Comment follow-ups (review Oct 29)",
+   "title": "Comment follow-ups (review Nov 4)",
    "station": 1,
-   "updated": "Oct 29, 8:50 AM ET",
+   "updated": "Nov 4, 5:45 PM ET",
    "details": {
-    "Top pick": "NEW: Denny Hill still exists, underwater (8.9M cu yd shoal under Elliott Bay; YouTube viewer, verified). Then NYC roof tanks fill/clean/inspect",
-    "Next ideas": "Breaking the column / one-pump problem (now +IG: 25-like 'tanker + gravity', 'how do you break the column') · fire water to floor 60 · supertall mid-height tanks",
-    "Done": "NYC water answer posted as a TikTok video reply Oct 28 (372 views, 12 likes)",
-    "Report": "comments-2026-10-29.md",
+    "Top pick": "NEW: Texas grid sequel: does it fail in summer AND winter / will it hold this winter (ERCOT: 4 ordered outages ever, none in summer). #2 gas vs wind in 2021 (FERC 58%/27%). #3 high-speed rail: government vs private",
+    "Next ideas": "CA track deadline Nov 30 (hold ≥ Dec 1) · tire dust in your water · home batteries/leaving the grid",
+    "Done": "9 reply drafts (NoSpam1891, JustinCaudill14, 00060850, TalentsFinest, kellyclark9117, garywilson1688, pauldavis6571, jay.easy7, IG IPC risers); Joe posts them himself",
+    "Report": "comments-2026-11-04.md",
     "Sign-off": "Joe picks with the Sun/Wed topic list; nothing builds or posts without his yes"
    }
   },
@@ -127,14 +127,14 @@
    "next": "Wow-factor check",
    "checks": [
     [
-     "Default VIDEO; carousel only if <6 licensed photos, static list, same-day deadline, or can't fill 61 s",
+     "Default VIDEO; carousel only if <6 licensed photos, static list, same-day deadline, or can't fill 63–70 s",
      "production-process.md step 1",
-     "Oct 18"
+     "Nov 3"
     ],
     [
-     "Short must land 63–70 s without padding",
-     "TikTok payout needs >61 s; 2 s margin",
-     "Oct 30"
+     "Short must land 63–70 s without padding (checked at the File gate)",
+     "TikTok payout; Process doc §6 Gate 4 File",
+     "Nov 3"
     ]
    ]
   },
@@ -165,9 +165,9 @@
    "next": "Script",
    "checks": [
     [
-     "Hook hits hard with a dramatic visual reveal in 0–3 s",
-     "Joe's rule; P01 winner pattern",
-     "Oct 24"
+     "Hook passes the Hook gate: voice starts at frame 0; topic + hook of ≤8 words by 2.0 s; full spoken claim ≤12 words by ~3.0 s from the first frame of audio",
+     "Process doc §6 Gate 1 Hook (Joe, Nov 3)",
+     "Nov 3"
     ],
     [
      "Hook contents factually accurate",
@@ -175,9 +175,9 @@
      "Oct 24"
     ],
     [
-     "Style: Real-Photo Hidden Machine (credited PD/CC photo held ~2 s → 3D cutaway) or CAR10 twist hook",
-     "car10-video-style.md",
-     "Oct 25"
+     "Judgment question: does this hook state a real, specific claim that would make someone stop scrolling, in plain language? Vague hooks that only pass the word count fail",
+     "Process doc §6 judgment question",
+     "Nov 3"
     ],
     [
      "Headline on screen from frame 1, no fade-in (CAR10)",
@@ -204,9 +204,9 @@
      "Oct 18"
     ],
     [
-     "CAR10 structure: twist hook → disaster → how it works → this week's numbers → debate question",
-     "car10-video-style.md",
-     "Oct 25"
+     "Structure: twist hook → disaster → how it works → dated numbers (\"in October 2026\", never \"this week\"/\"last week\") → ending. Ending may close on a real \"genius or waste\" taxpayer-money debate stated in the script; generic comment-bait (\"comment below\", \"let me know\") banned",
+     "Process doc §6 Reviewer checklist",
+     "Nov 3"
     ],
     [
      "Ending clearly answers the question it raises (no cliffhanger)",
@@ -214,14 +214,14 @@
      "Oct 25"
     ],
     [
-     "Script sized for 63–70 s at Grok ara 0.97",
-     "Joe",
-     "Oct 30"
-    ],
-    [
      "Teasers answer the question on the same platform (no 'full answer on YouTube')",
      "NYC water: top TikTok comment complained, 1,260 likes",
      "Oct 28"
+    ],
+    [
+     "Script sized for 63–70 s in the voice Joe set for this video (current: Gemini Charon)",
+     "Joe",
+     "Nov 3"
     ]
    ]
   },
@@ -282,14 +282,24 @@
      "Oct 26"
     ],
     [
-     "On-screen credit on every footage clip; avoid network TV and stock (Pexels counts)",
-     "Joe",
-     "Oct 30"
+     "On-screen credit on every footage clip; no stock (Pexels counts); network TV/news only for frame 0 or the opening when clearly the best shot",
+     "Process doc §6 Frame gate + Reviewer checklist",
+     "Nov 3"
     ],
     [
-     "Word-for-word captions at bottom; middle callouts only for proper names or dates, never plain nouns or VO repeats",
-     "Joe",
-     "Oct 30"
+     "Word-for-word captions at bottom of the safe box; orange highlights on key numbers and dollar amounts only, everything else white; middle callouts only for proper names or dates",
+     "Process doc §6 Reviewer checklist",
+     "Nov 3"
+    ],
+    [
+     "Subject big in frame and fully visible (never cropped); horizontal footage never placed low in the vertical frame",
+     "Process doc §6 Frame gate",
+     "Nov 3"
+    ],
+    [
+     "No repeated shots or looks; a blur keeps a fixed size and shape for the whole shot",
+     "Process doc §6 Reviewer checklist",
+     "Nov 3"
     ]
    ]
   },
@@ -301,14 +311,14 @@
    "next": "QC checks",
    "checks": [
     [
-     "Kokoro af_heart voice",
-     "Joe's rule",
-     "Oct 25"
+     "Voice set per video by Joe (current: Gemini Charon); never pitch-shift or time-stretch a voice",
+     "Joe, Nov 3",
+     "Nov 3"
     ],
     [
-     "-14 LUFS integrated, limiter -1 dBTP; no music (except Corey's Great Wall cuts)",
-     "Joe",
-     "Oct 30"
+     "Loudness -14 LUFS integrated (pass -14 ±1), checked once at the Audio gate; no music (except Corey's Great Wall cuts); no whoosh/swoosh transition sounds",
+     "Process doc §6 Gate 3 Audio + Reviewer checklist",
+     "Nov 3"
     ],
     [
      "No silence: gaps ≤0.15 s",
@@ -316,48 +326,58 @@
      "Oct 25"
     ],
     [
-     "Listen to the final VO line wording",
-     "NEW: Three Gorges final-line fix",
-     "Oct 26"
+     "Listen to the first second for distortion and to the final VO line wording",
+     "Three Gorges final-line fix",
+     "Nov 3"
     ],
     [
      "stt_check transcript matches script",
      "step 6",
      "Oct 18"
+    ],
+    [
+     "Never say \"my take\"",
+     "Process doc §6 Reviewer checklist",
+     "Nov 3"
     ]
    ]
   },
   {
    "n": 9,
-   "name": "QC checks",
-   "owner": "Grok Bot (Gatekeeper scripts)",
-   "gate": "All PASS",
+   "name": "Four gates",
+   "owner": "Grok Bot (tools/gates/run_gates.sh)",
+   "gate": "All four PASS; any FAIL blocks the post",
    "next": "Reviewer",
    "checks": [
     [
-     "check_smoothness.py: CFR, no dropped/duplicated/frozen frames, A/V sync ≤50 ms, first 5 s strict",
-     "NEW: Three Gorges skips",
-     "Oct 26"
+     "Gate 1 Hook: VO starts at 0.0 s; hook ≤8 words by 2.0 s; claim ≤12 words by ~3.0 s (from word timestamps)",
+     "Process doc §6 Gate 1",
+     "Nov 3"
     ],
     [
-     "Duration ≥63 s",
-     "Payout",
-     "Oct 25"
+     "Gate 2 Frame: frame 0 and cover real, not black/flat; safe_area_gate.py PASS (CUT and MARGIN fail); captions at bottom of safe box",
+     "Process doc §6 Gate 2",
+     "Nov 3"
     ],
     [
-     "holdcheck, pace, padcheck, edgecheck, ocrcheck, provcheck, stt_check, layoutgate green",
+     "Gate 3 Audio: -14 ±1 LUFS integrated; click check PASS",
+     "Process doc §6 Gate 3",
+     "Nov 3"
+    ],
+    [
+     "Gate 4 File: 63–70 s; share copy <30 MB (MAX_MB); 1080x1920; check_smoothness.py PASS on every copy; clean decode",
+     "Process doc §6 Gate 4",
+     "Nov 3"
+    ],
+    [
+     "run_gates.sh prints one PASS/FAIL line per gate and exits non-zero on any FAIL",
+     "tools/gates/run_gates.sh",
+     "Nov 3"
+    ],
+    [
+     "Other build scripts (holdcheck, pace, padcheck, edgecheck, ocrcheck, provcheck, stt_check, layoutgate, check_no_split.py for the X cut) still run as build aids",
      "step 8",
      "Oct 18"
-    ],
-    [
-     "X 16:9 cut passes check_no_split.py",
-     "No stacked/split layouts",
-     "Oct 25"
-    ],
-    [
-     "Share copies under 30 MB",
-     "Joe's rule",
-     "Oct 24"
     ]
    ]
   },
@@ -369,9 +389,14 @@
    "next": "Joe sign-off",
    "checks": [
     [
-     "Quality + monetization: originality, licences",
-     "step 9",
-     "Oct 18"
+     "Reviewer checklist, one pass logged in review.md: hard blocks (no guns, AI labels off, licensing) plus the rules no script can check",
+     "Process doc §6 Reviewer checklist",
+     "Nov 3"
+    ],
+    [
+     "One judgment question, exact wording in Process doc §6",
+     "Process doc §6",
+     "Nov 3"
     ],
     [
      "Reviewer PASS ≠ done; Joe's taste is the bar",
@@ -464,6 +489,11 @@
      "Covers on live videos not changed without Joe's OK",
      "thumbnail-plan.md",
      "Oct 26"
+    ],
+    [
+     "At least 6 hours between posts on the same platform",
+     "Joe, Nov 3, 2026 (posting-schedule.md)",
+     "Nov 3"
     ]
    ]
   },
@@ -611,60 +641,61 @@
   }
  ],
  "comment_feedback": {
-  "review_date": "Thu Oct 29, 2026",
-  "window": "Oct 28 10:40 AM – Oct 29 8:30 AM ET (+ re-check of older videos)",
-  "report": "comments-2026-10-29.md",
+  "review_date": "Wed Nov 4, 2026",
+  "window": "Nov 1 ~12:25 PM – Nov 4 ~5:30 PM ET (+ re-check of older top videos)",
+  "report": "comments-2026-11-04.md",
   "rule": "Read the latest comment report before every Sun 9 AM / Wed ~6 PM topic planning. Comment-driven follow-ups are ranked alongside the search-scan picks.",
-  "coverage": "Read: TikTok (78 comments), X (0 replies), YouTube Studio (15 comments, 0 held), Instagram NYC water Reel (8) + 2 newest Reels (0), Business Suite FB/IG comment tabs (empty).",
+  "coverage": "Read: YouTube Data API (21 new comments + 11 replies; Texas grid 26), Instagram (3 new, all skyscraper water; usernames hidden), TikTok (2 new, Texas grid), X (0 replies/mentions), Facebook (counts only; Texas grid reel 29 comments unread).",
   "top_feedback": [
    "No voice, pacing, AI-look or caption complaints on any platform.",
-   "Viewer addition (YouTube, Seattle): Denny Hill still sits under Elliott Bay as an 8.9M cu yd shoal that ships hit. Verified (UW/Holmes via David B. Williams). Not an error in our video, but a strong follow-up.",
-   "NYC water still drives conversation on IG: 'Just put the tanker up and let gravity do the work' (25 likes), 'How do you break the column?', a NYC building worker confirming basement-to-roof-tank pumping.",
-   "Checked and ours stands: Three Gorges '0.06 µs' (a viewer said picoseconds; it's 60 nanoseconds).",
-   "Self-check: the NYC reply says zones are 'about six floors tall'; references say 10–15. Don't reuse as a hard number without a second source.",
-   "NYC water answer posted as a TikTok video reply Oct 28 (372 views, 12 likes)."
+   "Texas grid is the comment magnet (YT 35K views / 31 comments; FB 29 comments). Viewers share their own outages: 'fails in winter AND summer' (19 likes), 'green energy failed in 2021' (5 likes, heated replies), 'I'm in East Texas, Eastern grid'.",
+   "Fair critique: the Texas video says 'plants froze' but not which ones (FERC: 58% gas, 27% wind).",
+   "Viewer fact claims checked; our videos all hold. Wrong viewer claims: Florida 'own grid' (it's Eastern); 'Caltrans in charge' of CA rail (it's the CHSR Authority). Correct: CA track due to start by Nov 30; IPC 604.8 riser exception.",
+   "9 reply drafts in the report for Joe to post himself; nothing posted."
   ],
   "gaps": [
-   "TikTok Studio hidden/filtered comments and photo posts",
-   "Nested IG replies and older IG Reels"
+   "Facebook comment bodies (empty lists even with pages_read_user_content; Texas reel's 29 unread)",
+   "Instagram usernames blank",
+   "YouTube ~4 Texas comments held/hidden",
+   "TikTok Studio filtered comments + CSI not checked this run"
   ],
   "ideas": [
    {
     "rank": "1",
-    "title": "Denny Hill still exists, underwater (Seattle follow-up)",
-    "demand": "1 YouTube comment, verified; newest Seattle short",
-    "source": "YouTube Seattle short (@DonnaJoeBruce)",
-    "video_reply": "Yes if asked on TikTok; YT Short reply"
+    "title": "Does the Texas grid fail in summer AND winter? Will it hold this winter? (ERCOT ordered outages only 4 times, none in summer)",
+    "demand": "YT 19 likes + 4 replies; TikTok 'Storm 2026 didn't compare'",
+    "source": "Texas grid YT (@NoSpam1891) + TikTok (pauldavis6571)",
+    "video_reply": "Yes (pauldavis6571)"
    },
    {
     "rank": "2",
-    "title": "NYC roof tanks: how they're filled, cleaned and inspected",
-    "demand": "29 likes + Joe's own ask",
-    "source": "NYC water TikTok",
-    "video_reply": "Yes; water towers short built + approved (held)"
+    "title": "What actually froze in Texas in 2021: gas or wind? (FERC: 58% gas, 27% wind)",
+    "demand": "YT 5 likes + 4 heated replies",
+    "source": "Texas grid YT (@JustinCaudill14)",
+    "video_reply": "No TikTok comment; standalone"
    },
    {
     "rank": "3",
-    "title": "Breaking the column: why one giant pump would wreck the lobby's plumbing",
-    "demand": "~10 TikTok likes + 25-like IG comment + IG question",
-    "source": "NYC water TikTok + IG Reel",
-    "video_reply": "Yes"
+    "title": "Why can't America build high-speed rail? Government vs private (CHSRA vs Brightline)",
+    "demand": "3 YT comments (1 like)",
+    "source": "California rail YT (@kellyclark9117)",
+    "video_reply": "YT reply"
    },
    {
     "rank": "4",
-    "title": "How firefighters get water to the 60th floor",
-    "demand": "1 expert comment",
-    "source": "NYC water TikTok",
-    "video_reply": "Yes"
+    "title": "California's Nov 30 track deadline: did they lay track?",
+    "demand": "1 YT comment",
+    "source": "California rail YT (@garywilson1688)",
+    "video_reply": "No"
    },
    {
     "rank": "5",
-    "title": "Where supertall towers hide their water (mechanical floors)",
-    "demand": "4 TikTok + 1 IG ('Mechanical floors')",
-    "source": "NYC water TikTok + IG",
-    "video_reply": "Yes; check Corey overlap"
+    "title": "Tire dust in your water (6PPD-quinone)",
+    "demand": "1 YT comment (1 like)",
+    "source": "Great Wall Secret 4 YT (@DimebagMike)",
+    "video_reply": "No"
    }
   ]
  },
- "updated": "Sun Nov 1, 2026 11:17 AM ET"
+ "updated": "Wed Nov 4, 2026 5:27 PM ET"
 }
