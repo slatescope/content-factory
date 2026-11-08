@@ -2,16 +2,16 @@
  "videos": [
   {
    "id": "CMT",
-   "title": "Comment follow-ups (review Nov 4)",
+   "title": "Comment follow-ups (review Nov 8)",
    "station": 1,
-   "updated": "Nov 4, 6:45 PM ET",
+   "updated": "Nov 8, 8:55 AM ET",
    "details": {
-    "Top pick": "NEW: Texas grid sequel: does it fail in summer AND winter / will it hold this winter (ERCOT: 4 ordered outages ever, none in summer). #2 gas vs wind in 2021 (FERC 58%/27%). #3 high-speed rail: government vs private",
-    "Next ideas": "CA track deadline Nov 30 (hold ≥ Dec 1) · tire dust in your water · home batteries/leaving the grid",
-    "Done": "9 reply drafts (NoSpam1891, JustinCaudill14, 00060850, TalentsFinest, kellyclark9117, garywilson1688, pauldavis6571, jay.easy7, IG IPC risers); Joe posts them himself",
-    "Report": "comments-2026-11-04.md",
+    "Top pick": "Texas grid sequel still #1: fails in summer AND winter / will it hold this winter (@NoSpam1891 now 25 likes; ERCOT: 4 ordered outages ever, none in summer). #2 NEW: should Texas plug into the national grid? (8 likes; DC ties + FERC rules). #3 NEW: where did California's $16B go? (CHSRA: $16.39B spent by Jul 31 2026, $8.1B civil works)",
+    "Next ideas": "Who really drinks the Colorado River: alfalfa vs your tap (farms 74% of direct use) · electric bills, gas stove bans and data centers (NY 28.65¢/kWh, +7.5%) · why automated baggage works now (Heathrow T5 vs Denver) · CA Nov 30 track check (hold ≥ Dec 1)",
+    "Done": "7 new reply drafts (JohnnySanchez-b9u, nndjkn9255, deedawson8122, mikethe1nonly, Always_rich_vs_poor, TikTok tknyc2024, denverbecca) + 9 Nov 4 drafts still unposted (NoSpam1891 first); Joe posts them himself",
+    "Report": "comments-2026-11-08.md",
     "Sign-off": "Joe picks with the Sun/Wed topic list; nothing builds or posts without his yes",
-    "Made the list (Nov 4 scan)": "Texas grid part 2 (#1, 72; merges 'summer AND winter / this winter' + 'gas or wind in 2021') · US high-speed rail public vs private/Brightline (#6, 66). Not picked: CA Nov 30 deadline (hold ≥ Dec 1), tire dust, off-grid solar"
+    "For Sun Nov 8 9 AM scan": "Rank with search picks: Texas grid pt 2 (summer/winter + plug into national grid, can merge) · CA $16B where-did-it-go · Colorado River alfalfa vs tap. Format: lead with how it's built/works, then the hot-button fight, tied to viewers' bills/taps"
    }
   },
   {
@@ -644,61 +644,68 @@
   }
  ],
  "comment_feedback": {
-  "review_date": "Wed Nov 4, 2026",
-  "window": "Nov 1 ~12:25 PM – Nov 4 ~5:30 PM ET (+ re-check of older top videos)",
-  "report": "comments-2026-11-04.md",
+  "review_date": "Sun Nov 8, 2026",
+  "window": "Nov 4 ~5:30 PM – Nov 8 ~8:45 AM ET (+ re-check of older top videos)",
+  "report": "comments-2026-11-08.md",
   "rule": "Read the latest comment report before every Sun 9 AM / Wed ~6 PM topic planning. Comment-driven follow-ups are ranked alongside the search-scan picks.",
-  "coverage": "Read: YouTube Data API (21 new comments + 11 replies; Texas grid 26), Instagram (3 new, all skyscraper water; usernames hidden), TikTok (2 new, Texas grid), X (0 replies/mentions), Facebook (counts only; Texas grid reel 29 comments unread).",
+  "coverage": "Read: YouTube Data API (16 new comments + 7 replies; Texas grid 7 + 5, now 63K views / 48 comments), Instagram (1 new, skyscraper water; usernames hidden), TikTok (8 new: gas stoves 3, Denver 3, Great Wall 7 1, Colorado 1), X (0 replies/mentions), Facebook (counts only; Texas 29, CA rail 5, Colorado 1 unread).",
   "top_feedback": [
    "No voice, pacing, AI-look or caption complaints on any platform.",
-   "Texas grid is the comment magnet (YT 35K views / 31 comments; FB 29 comments). Viewers share their own outages: 'fails in winter AND summer' (19 likes), 'green energy failed in 2021' (5 likes, heated replies), 'I'm in East Texas, Eastern grid'.",
-   "Fair critique: the Texas video says 'plants froze' but not which ones (FERC: 58% gas, 27% wind).",
-   "Viewer fact claims checked; our videos all hold. Wrong viewer claims: Florida 'own grid' (it's Eastern); 'Caltrans in charge' of CA rail (it's the CHSR Authority). Correct: CA track due to start by Nov 30; IPC 604.8 riser exception.",
-   "9 reply drafts in the report for Joe to post himself; nothing posted."
+   "Texas grid keeps pulling personal-experience comments (YT 63K views / 48 comments): 'fails in winter AND summer' now 25 likes; 'As a Texan, I prefer we don't have our own grid' 8 likes; 'I live here and the power routinely goes out'.",
+   "8 viewer fact claims checked; no errors found in our videos. Overstated: 'ag uses 86% of Colorado water' (74% of direct human use, Richter 2024); wrong: 'never had grid trouble until green energy' (ERCOT outages 1989/2006/2011). Right: Denver ~96.8% test rate, Heathrow T5 automated, NY power up 7.5%.",
+   "New videos (Waymo, gas stoves, fluoride, Colorado, Great Wall 5–7) have few comments so far; gas stoves TikTok got 3 (power bills).",
+   "None of the Nov 4 reply drafts were posted; 7 new + 9 carried drafts in the report for Joe to post himself; nothing posted."
   ],
   "gaps": [
-   "Facebook comment bodies (empty lists even with pages_read_user_content; Texas reel's 29 unread)",
+   "Facebook comment bodies still blocked (Texas 29, CA rail 5, Colorado 1 unread)",
    "Instagram usernames blank",
-   "YouTube ~4 Texas comments held/hidden",
+   "YouTube ~9 Texas comments held/hidden",
    "TikTok Studio filtered comments + CSI not checked this run"
   ],
   "ideas": [
    {
     "rank": "1",
     "title": "Does the Texas grid fail in summer AND winter? Will it hold this winter? (ERCOT ordered outages only 4 times, none in summer)",
-    "demand": "YT 19 likes + 4 replies; TikTok 'Storm 2026 didn't compare'",
-    "source": "Texas grid YT (@NoSpam1891) + TikTok (pauldavis6571)",
-    "video_reply": "Yes (pauldavis6571)"
+    "demand": "YT 25 likes + 4 replies; new outage comments (deedawson8122, LarryRobinson-x7l); TikTok pauldavis6571",
+    "source": "Texas grid YT (@NoSpam1891)",
+    "video_reply": "Yes (TikTok pauldavis6571)"
    },
    {
     "rank": "2",
-    "title": "What actually froze in Texas in 2021: gas or wind? (FERC: 58% gas, 27% wind)",
-    "demand": "YT 5 likes + 4 heated replies",
-    "source": "Texas grid YT (@JustinCaudill14)",
-    "video_reply": "No TikTok comment; standalone"
+    "title": "Should Texas plug into the national grid? (how DC ties work; AC ties = FERC rules)",
+    "demand": "YT 8 likes + 2 related comments",
+    "source": "Texas grid YT (@nndjkn9255, @JonahNeff)",
+    "video_reply": "YT reply"
    },
    {
     "rank": "3",
-    "title": "Why can't America build high-speed rail? Government vs private (CHSRA vs Brightline)",
-    "demand": "3 YT comments (1 like)",
-    "source": "California rail YT (@kellyclark9117)",
+    "title": "Where did California's $16 billion go? (CHSRA: $16.39B, $8.1B civil works)",
+    "demand": "YT 1 like + carried rail comments; FB rail 5 comments (unread)",
+    "source": "California rail YT (@JohnnySanchez-b9u)",
     "video_reply": "YT reply"
    },
    {
     "rank": "4",
-    "title": "California's Nov 30 track deadline: did they lay track?",
-    "demand": "1 YT comment",
-    "source": "California rail YT (@garywilson1688)",
-    "video_reply": "No"
+    "title": "Who really drinks the Colorado River? Alfalfa vs your tap",
+    "demand": "YT 2-comment thread + El Niño comment (0 likes)",
+    "source": "Colorado River YT (@Always_rich_vs_poor)",
+    "video_reply": "Maybe"
    },
    {
     "rank": "5",
-    "title": "Tire dust in your water (6PPD-quinone)",
-    "demand": "1 YT comment (1 like)",
-    "source": "Great Wall Secret 4 YT (@DimebagMike)",
-    "video_reply": "No"
+    "title": "Is your electric bill going up? Gas stove bans + data centers (NY 28.65¢/kWh, +7.5%)",
+    "demand": "2 TikTok comments (0 likes)",
+    "source": "Gas stoves TikTok (tknyc2024)",
+    "video_reply": "Yes (tknyc2024)"
+   },
+   {
+    "rank": "6",
+    "title": "Why automated baggage works now when Denver's failed (Heathrow T5)",
+    "demand": "2 TikTok comments (1 like)",
+    "source": "Denver TikTok (denverbecca, inthefuture.com)",
+    "video_reply": "Yes (denverbecca)"
    }
   ]
  },
- "updated": "Wed Nov 4, 2026 6:27 PM ET"
+ "updated": "Sun Nov 8, 2026 8:48 AM ET"
 }
