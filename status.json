@@ -76,12 +76,13 @@
   },
   {
    "id": "SCAN",
-   "title": "Wed-scan topics (search-demand-2026-11-04)",
+   "title": "Sun-scan topics (search-demand-2026-11-08)",
    "station": 1,
-   "updated": "Nov 4, 6:45 PM ET",
+   "updated": "Nov 8, 9:25 AM ET",
    "details": {
-    "Picks": "1 Texas grid pt 2 (72, comment) · 2 gas leaf blower ban (82) · 3 Flock cameras (77) · 4 heat pumps in cold (75) · 5 TEST battery storage fire (71) · 6 US high-speed rail public vs private (66, comment) · 7 burying power lines (66) · 8 TEST toilet to tap (66)",
-    "Comment ideas on list": "Texas grid part 2; high-speed rail public vs private",
+    "Picks": "1 Texas + national grid (82, comment) · 2 smart-meter opt-out (82, second look) · 3 CA $16B rail spend (71, comment) · 4 EVs in cold (68) · 5 alfalfa vs tap (62, comment) · 6 self-driving trucks TX (62) · 7 TEST SMRs for data centers (62) · 8 TEST wind turbine blade failure (57)",
+    "Comment ideas on list": "Texas + national grid (#1); CA $16B (#3); alfalfa vs tap (#5). Texas summer/winter already gs96.",
+    "Prior list": "Nov 4 picks approved Nov 4 9:55 PM ET and are in production as gs96–gs103 (do not re-pick)",
     "Sign-off": "Waiting for Joe's approval; nothing handed to the Researcher"
    }
   },
