@@ -648,68 +648,67 @@
   }
  ],
  "comment_feedback": {
-  "review_date": "Sun Nov 8, 2026",
-  "window": "Nov 4 ~5:30 PM – Nov 8 ~8:45 AM ET (+ re-check of older top videos)",
-  "report": "comments-2026-11-08.md",
+  "review_date": "Wed Nov 11, 2026",
+  "window": "Nov 8 ~8:45 AM – Nov 11 ~5:30 PM ET (+ re-check of older top videos)",
+  "report": "comments-2026-11-11.md",
   "rule": "Read the latest comment report before every Sun 9 AM / Wed ~6 PM topic planning. Comment-driven follow-ups are ranked alongside the search-scan picks.",
-  "coverage": "Read: YouTube Data API (16 new comments + 7 replies; Texas grid 7 + 5, now 63K views / 48 comments), Instagram (1 new, skyscraper water; usernames hidden), TikTok (8 new: gas stoves 3, Denver 3, Great Wall 7 1, Colorado 1), X (0 replies/mentions), Facebook (counts only; Texas 29, CA rail 5, Colorado 1 unread).",
+  "coverage": "Read: YouTube API (15 new threads; Texas grid 65K views), Instagram (3 new), Facebook (comment text now readable: 147 new, 146 on El Paso), TikTok (28 new, 18 on El Paso), X (0 replies/mentions).",
   "top_feedback": [
-   "No voice, pacing, AI-look or caption complaints on any platform.",
-   "Texas grid keeps pulling personal-experience comments (YT 63K views / 48 comments): 'fails in winter AND summer' now 25 likes; 'As a Texan, I prefer we don't have our own grid' 8 likes; 'I live here and the power routinely goes out'.",
-   "8 viewer fact claims checked; no errors found in our videos. Overstated: 'ag uses 86% of Colorado water' (74% of direct human use, Richter 2024); wrong: 'never had grid trouble until green energy' (ERCOT outages 1989/2006/2011). Right: Denver ~96.8% test rate, Heathrow T5 automated, NY power up 7.5%.",
-   "New videos (Waymo, gas stoves, fluoride, Colorado, Great Wall 5–7) have few comments so far; gas stoves TikTok got 3 (power bills).",
-   "None of the Nov 4 reply drafts were posted; 7 new + 9 carried drafts in the report for Joe to post himself; nothing posted."
+   "El Paso 'toilet to tap' is the new comment magnet: 146 FB + 18 TikTok + 6 YT comments.",
+   "Top ask (~38 comments, TikTok top comment 17 likes): 'give the sewage water to Meta's data center'. El Paso Water says Meta gets drinking water (reclaimed is all used): ~480K gal/day avg, 2.5 MGD cap.",
+   "Framing pushback (~32): 'El Paso has done this since the 80s'. Half right: aquifer recharge since 1985; new plant is first direct-to-pipe. No error in our video, but lead with 'straight into the pipes'.",
+   "First AI-look complaints: 2 on El Paso FB ('AI slop'). No voice, pacing or caption complaints.",
+   "10 viewer claims checked; no errors in our videos. New fact: PG&E hit 1,500 undergrounded miles Nov 9 (IG viewer was right)."
   ],
   "gaps": [
-   "Facebook comment bodies still blocked (Texas 29, CA rail 5, Colorado 1 unread)",
-   "Instagram usernames blank",
-   "YouTube ~9 Texas comments held/hidden",
-   "TikTok Studio filtered comments + CSI not checked this run"
+   "Facebook commenter names blank",
+   "TikTok Studio filtered comments not checked",
+   "Search-demand checks for these ideas are left to the 6 PM topic scan"
   ],
   "ideas": [
    {
     "rank": "1",
-    "title": "Does the Texas grid fail in summer AND winter? Will it hold this winter? (ERCOT ordered outages only 4 times, none in summer)",
-    "demand": "YT 25 likes + 4 replies; new outage comments (deedawson8122, LarryRobinson-x7l); TikTok pauldavis6571",
-    "source": "Texas grid YT (@NoSpam1891)",
-    "video_reply": "Yes (TikTok pauldavis6571)"
+    "title": "Does Meta's El Paso data center get the clean water while residents get recycled sewage?",
+    "demand": "TikTok fenris_wolff 17 likes + phelonious.st.jam 6; ~33 FB comments",
+    "source": "El Paso TikTok/FB",
+    "video_reply": "Yes (TikTok fenris_wolff)"
    },
    {
     "rank": "2",
-    "title": "Should Texas plug into the national grid? (how DC ties work; AC ties = FERC rules)",
-    "demand": "YT 8 likes + 2 related comments",
-    "source": "Texas grid YT (@nndjkn9255, @JonahNeff)",
-    "video_reply": "YT reply"
+    "title": "Can treatment really remove drugs, fentanyl and birth control from sewage water?",
+    "demand": "YT @ShimmeringWind 1 like + 2 YT; ~8 FB",
+    "source": "El Paso YT/FB",
+    "video_reply": "Yes (YT/FB reply)"
    },
    {
     "rank": "3",
-    "title": "Where did California's $16 billion go? (CHSRA: $16.39B, $8.1B civil works)",
-    "demand": "YT 1 like + carried rail comments; FB rail 5 comments (unread)",
-    "source": "California rail YT (@JohnnySanchez-b9u)",
-    "video_reply": "YT reply"
+    "title": "El Paso has drunk its own wastewater since 1985, so what's new? (aquifer recharge vs direct-to-pipe)",
+    "demand": "~32 comments; TikTok lone.wolf161 2 likes",
+    "source": "El Paso FB/TikTok",
+    "video_reply": "Yes (TikTok lone.wolf161)"
    },
    {
     "rank": "4",
-    "title": "Who really drinks the Colorado River? Alfalfa vs your tap",
-    "demand": "YT 2-comment thread + El Niño comment (0 likes)",
-    "source": "Colorado River YT (@Always_rich_vs_poor)",
-    "video_reply": "Maybe"
+    "title": "Texas grid sequel (carried)",
+    "demand": "YT 65K views",
+    "source": "Texas grid YT",
+    "video_reply": "—"
    },
    {
     "rank": "5",
-    "title": "Is your electric bill going up? Gas stove bans + data centers (NY 28.65¢/kWh, +7.5%)",
-    "demand": "2 TikTok comments (0 likes)",
-    "source": "Gas stoves TikTok (tknyc2024)",
-    "video_reply": "Yes (tknyc2024)"
+    "title": "PG&E buried 1,500 miles of power lines. Is it working?",
+    "demand": "IG 1 + FB 1 (0 likes)",
+    "source": "Power lines IG/FB",
+    "video_reply": "Maybe"
    },
    {
     "rank": "6",
-    "title": "Why automated baggage works now when Denver's failed (Heathrow T5)",
-    "demand": "2 TikTok comments (1 like)",
-    "source": "Denver TikTok (denverbecca, inthefuture.com)",
-    "video_reply": "Yes (denverbecca)"
+    "title": "Where does speed camera money go? (NYC)",
+    "demand": "5 'cash grab' comments, 0 likes",
+    "source": "Speed cameras YT/TikTok",
+    "video_reply": "Maybe"
    }
   ]
  },
- "updated": "Sun Nov 8, 2026 9:23 AM ET"
+ "updated": "Wed Nov 11, 2026 5:29 PM ET"
 }
